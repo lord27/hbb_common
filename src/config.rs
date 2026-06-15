@@ -117,7 +117,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["whatai.us"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rd.whatai.us"];
 pub const RS_PUB_KEY: &str = "aWk+ZFpUHiGzglgfmUASobkYGT5NMRfPPX38nOU0jHU=";
 
 pub const RENDEZVOUS_PORT: i32 = 2116;
